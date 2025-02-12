@@ -1,7 +1,5 @@
-cff-version: 1.2.0
-message: ""
 authors:
-    Postuma, El Bouadli
+    Postuma, I. and El Bouadli, S.
     Ian, Samir
     https://github.com/19sam96-git/CR39_sim
 title: "Gent4 simulation of alpha particles interacting with CR39 detector"
