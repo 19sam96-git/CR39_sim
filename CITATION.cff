@@ -1,12 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: ""
 authors:
-  - family-names: Druskat
-    given-names: Stephan
-    orcid: https://orcid.org/1234-5678-9101-1121
-title: "My Research Software"
+    Postuma, El Bouadli
+    Ian, Samir
+    https://github.com/19sam96-git/CR39_sim
+title: "Gent4 simulation of alpha particles interacting with CR39 detector"
 version: 2.0.4
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.1234
-date-released: 2021-08-11
+date-released: 2021-08-12
